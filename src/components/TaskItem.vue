@@ -19,7 +19,7 @@ const props = defineProps<{
   border-radius: 8px;
   background: #fff;
   position: relative;
-  text-align: left; /* добавлено выравнивание текста по левому краю */
+  text-align: left; 
 }
 
 .task-card h3 {
